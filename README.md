@@ -36,6 +36,7 @@ The experiments use the following MoleculeNet benchmark datasets:
 ## ⚙️ Installation & Setup
 
 ###  💻 Google Colab (Recommended)
+Install the required packages:
 
 ```bash
 !pip install torch_geometric
