@@ -36,8 +36,10 @@ To develop lightweight and computationally efficient GNN models through quantiza
 
 ## 📄 Published Paper
 
-<p align="center"> <a href="https://link.springer.com/article/10.1186/s13321-025-00989-3" target="_blank"> <img src="https://img.shields.io/badge/Download%20Paper-Journal of Cheminformatics-blue?style=for-the-badge&logo=googledrive"> </a> </p>
+<p align="center"> <a href="https://doi.org/10.1186/s13321-025-00989-3"> <img src="https://img.shields.io/badge/Read%20Published%20Paper-Journal%20of%20Cheminformatics-blue?style=for-the-badge"> </a> </p>
 
+DOI:
+https://doi.org/10.1186/s13321-025-00989-3
 
 ## 📚 Citation
 
