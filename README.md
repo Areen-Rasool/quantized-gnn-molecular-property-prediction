@@ -41,7 +41,15 @@ To develop lightweight and computationally efficient GNN models through quantiza
 
 ## 📚 Citation
 
-If you use this work in your research, please cite the following paper:
+If you use this work in your research, please cite:
 
-Rasool, A., Ul Rahman, J., & Uwitije, R. (2025). Enhancing molecular property prediction with quantized GNN models. *Journal of Cheminformatics*, 17(1), 81. DOI: https://doi.org/10.1186/s13321-025-00989-3 
-
+@article{rasool2025enhancing,
+  title={Enhancing molecular property prediction with quantized GNN models},
+  author={Rasool, Areen and Ul Rahman, Jamshaid and Uwitije, Rongin},
+  journal={Journal of Cheminformatics},
+  volume={17},
+  number={1},
+  pages={81},
+  year={2025},
+  doi={10.1186/s13321-025-00989-3}
+}
