@@ -24,3 +24,14 @@ Rasool, A., Ul Rahman, J., & Uwitije, R. (2025). Enhancing molecular property pr
 ## 📊 Datasets
 
 🌐 Public dataset used in this work: https://moleculenet.org/datasets-1 
+
+### 🎯 Goal:
+Improve accuracy and robustness of CPI prediction
+
+---
+
+<div align="center">
+<img src="./Figures/a_2.png" width="600">
+</div>
+
+---
