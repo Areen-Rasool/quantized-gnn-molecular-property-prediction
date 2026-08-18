@@ -8,7 +8,7 @@ The proposed approach is evaluated on molecular property prediction tasks using 
 
 ### 🎯 Goal
 
-To develop lightweight and computationally efficient GNN models through quantization while maintaining reliable molecular property prediction performance.
+To develop lightweight and computationally efficient molecular networks through quantization while maintaining reliable molecular property prediction performance.
 
 ---
 
