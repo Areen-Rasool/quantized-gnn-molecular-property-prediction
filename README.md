@@ -20,20 +20,7 @@ To develop lightweight and computationally efficient GNN models through quantiza
 
 
 
-### Overall Workflow
 
-```text
-Molecular Graph
-      ↓
-Graph Neural Network
-      ↓
-DoReFa-Net Quantization
-      ↓
-Quantized GNN Model
-      ↓
-Molecular Property Prediction
-      ↓
-Performance Evaluation
 
 ## ⚙️ Installation & Setup
 
@@ -51,8 +38,17 @@ Performance Evaluation
   `python train.py`  
 ```
 ## 📊 Datasets
+The experiments use the following MoleculeNet benchmark datasets:
 
-🌐 Public dataset used in this work: https://moleculenet.org/datasets-1 
+
+| Dataset      | Molecular Property                      |
+| ------------ | --------------------------------------- |
+| **ESOL**     | Water solubility                        |
+| **FreeSolv** | Hydration free energy                   |
+| **Lipo**     | Lipophilicity                           |
+| **QM9**      | Quantum mechanical molecular properties (diople moment |
+
+🌐 MoleculeNet datasets: https://moleculenet.org/datasets-1 
 
 ## 📄 Published Paper
 
