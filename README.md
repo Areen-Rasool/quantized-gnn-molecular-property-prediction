@@ -54,7 +54,7 @@ The main training and evaluation pipeline is provided in:
 ```bash
   `python train.py`  
 ```
-Please ensure that the required datasets and configuration files are available before starting the experiments.
+Please download the required datasets before running the experiments.
 
 ## 📄 Published Paper
 
