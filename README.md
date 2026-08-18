@@ -47,7 +47,7 @@ Install the required packages:
 The main training and evaluation pipeline is provided in:
 
 ```bash
-  `train`  
+  `train.py`  
 ```
   
  Run:
