@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository contains the implementation associated with our work on **quantized Graph Neural Networks (GNNs) for molecular property prediction**. The study integrates the **DoReFa-Net quantization algorithm** with GNN models to reduce computational and storage requirements while maintaining predictive performance.
+This repository contains the implementation associated with our work on **quantized Graph Neural Networks (GNNs) for molecular property prediction**. The study integrates the **DoReFa-Net quantization algorithm** with molecular graph-based models to reduce computational and storage requirements while maintaining predictive performance.
 
 The proposed approach is evaluated on molecular property prediction tasks using **MoleculeNet benchmark datasets** and different quantization levels, including FP16, INT8, INT4, and INT2.
 
