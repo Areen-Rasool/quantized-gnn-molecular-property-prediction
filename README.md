@@ -27,7 +27,7 @@ The experiments use the following MoleculeNet benchmark datasets:
 | **ESOL**     | Water solubility                        |
 | **FreeSolv** | Hydration free energy                   |
 | **Lipo**     | Lipophilicity                           |
-| **QM9**      | Quantum mechanical molecular properties (diople moment |
+| **QM9**      | Quantum mechanical molecular properties (dipole moment (μ)) |
 
 🌐 MoleculeNet datasets: https://moleculenet.org/datasets-1 
 
