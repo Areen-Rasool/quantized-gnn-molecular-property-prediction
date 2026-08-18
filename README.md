@@ -31,7 +31,6 @@ Improve accuracy and robustness of CPI prediction
 ---
 
 <div align="center">
-  <img src="./Figures/a_2.png" width="600">
+  <img src="./Figures/a_2.png.jpg" width="600">
 </div>
-
 ---
