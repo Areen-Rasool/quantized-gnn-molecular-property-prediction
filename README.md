@@ -43,13 +43,18 @@ Install the required packages:
 !pip install rdkit
 ```
 
-### Train/test quant_molecular_networks:
+### 🚀 Running the Experiments
+The main training and evaluation pipeline is provided in:
+
+```bash
+  `train`  
+```
   
- Run train.py using
+ Run:
 ```bash
   `python train.py`  
 ```
-
+Please ensure that the required datasets and configuration files are available before starting the experiments.
 
 ## 📄 Published Paper
 
