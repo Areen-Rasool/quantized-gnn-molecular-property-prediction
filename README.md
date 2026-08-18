@@ -1,8 +1,5 @@
 # Enhancing Molecular Property Prediction with Quantized GNN Models
 
-[![Paper](https://img.shields.io/badge/Paper-Journal%20of%20Cheminformatics-blue?style=for-the-badge)](https://doi.org/10.1186/s13321-025-00989-3)
-[![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs13321--025--00989--3-green?style=for-the-badge)](https://doi.org/10.1186/s13321-025-00989-3)
-
 ## 📌 Overview
 
 This repository contains the implementation associated with our work on **quantized Graph Neural Networks (GNNs) for molecular property prediction**. The study integrates the **DoReFa-Net quantization algorithm** with GNN models to reduce computational and storage requirements while maintaining predictive performance.
@@ -21,17 +18,7 @@ To develop lightweight and computationally efficient GNN models through quantiza
 
 ---
 
-## 🧠 Methodology
 
-The proposed framework combines **Graph Neural Networks (GNNs)** with **DoReFa-Net quantization** to investigate the trade-off between predictive performance and computational efficiency.
-
-The study evaluates:
-
-- **GCN (Graph Convolutional Network)**
-- **GIN (Graph Isomorphism Network)**
-- **DoReFa-Net quantization**
-- Multiple numerical precision levels
-- Molecular property prediction benchmarks
 
 ### Overall Workflow
 
