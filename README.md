@@ -18,7 +18,18 @@ To develop lightweight and computationally efficient GNN models through quantiza
 
 ---
 
+## 📊 Datasets
+The experiments use the following MoleculeNet benchmark datasets:
 
+
+| Dataset      | Molecular Property                      |
+| ------------ | --------------------------------------- |
+| **ESOL**     | Water solubility                        |
+| **FreeSolv** | Hydration free energy                   |
+| **Lipo**     | Lipophilicity                           |
+| **QM9**      | Quantum mechanical molecular properties (diople moment |
+
+🌐 MoleculeNet datasets: https://moleculenet.org/datasets-1 
 
 
 
@@ -37,18 +48,7 @@ To develop lightweight and computationally efficient GNN models through quantiza
 ```bash
   `python train.py`  
 ```
-## 📊 Datasets
-The experiments use the following MoleculeNet benchmark datasets:
 
-
-| Dataset      | Molecular Property                      |
-| ------------ | --------------------------------------- |
-| **ESOL**     | Water solubility                        |
-| **FreeSolv** | Hydration free energy                   |
-| **Lipo**     | Lipophilicity                           |
-| **QM9**      | Quantum mechanical molecular properties (diople moment |
-
-🌐 MoleculeNet datasets: https://moleculenet.org/datasets-1 
 
 ## 📄 Published Paper
 
