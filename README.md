@@ -1,9 +1,16 @@
-# Enhancing molecular property prediction with quantized GNN models
+# Enhancing Molecular Property Prediction with Quantized GNN Models
 
-## 📌 Summary
-This paper integrates DoReFa-Net quantization with GNNs to improve computational and storage efficiency in molecular property prediction. Results show that GCN models maintain comparable performance up to INT8 quantization, while GIN models are less robust. However, 4-bit and 2-bit quantization significantly degrade performance. Overall, INT8 quantization offers a good balance between computational efficiency and predictive accuracy.
+[![Paper](https://img.shields.io/badge/Paper-Journal%20of%20Cheminformatics-blue?style=for-the-badge)](https://doi.org/10.1186/s13321-025-00989-3)
+[![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs13321--025--00989--3-green?style=for-the-badge)](https://doi.org/10.1186/s13321-025-00989-3)
 
-### 🎯 Goal:
+## 📌 Overview
+
+This repository contains the implementation associated with our work on **quantized Graph Neural Networks (GNNs) for molecular property prediction**. The study integrates the **DoReFa-Net quantization algorithm** with GNN models to reduce computational and storage requirements while maintaining predictive performance.
+
+The proposed approach is evaluated on molecular property prediction tasks using **MoleculeNet benchmark datasets** and different quantization levels, including FP16, INT8, INT4, and INT2.
+
+### 🎯 Goal
+
 To develop lightweight and computationally efficient GNN models through quantization while maintaining reliable molecular property prediction performance.
 
 ---
@@ -14,6 +21,32 @@ To develop lightweight and computationally efficient GNN models through quantiza
 
 ---
 
+## 🧠 Methodology
+
+The proposed framework combines **Graph Neural Networks (GNNs)** with **DoReFa-Net quantization** to investigate the trade-off between predictive performance and computational efficiency.
+
+The study evaluates:
+
+- **GCN (Graph Convolutional Network)**
+- **GIN (Graph Isomorphism Network)**
+- **DoReFa-Net quantization**
+- Multiple numerical precision levels
+- Molecular property prediction benchmarks
+
+### Overall Workflow
+
+```text
+Molecular Graph
+      ↓
+Graph Neural Network
+      ↓
+DoReFa-Net Quantization
+      ↓
+Quantized GNN Model
+      ↓
+Molecular Property Prediction
+      ↓
+Performance Evaluation
 
 ## ⚙️ Installation & Setup
 
